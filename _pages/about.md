@@ -44,9 +44,9 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 
 # 🌟 Representative Work:
 
-acad: [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-lijun: <strong><span class='show_paper_citations' data='93wHW4oAAAAJ:UebtZRa9Y70C'></span></strong>
+acad: [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=isWtY64AAAAJ&citation_for_view=isWtY64AAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='isWtY64AAAAJ:9yKSN-GCB0IC'></span></strong>
 
+lijun: <strong><span class='show_paper_citations' data='93wHW4oAAAAJ:UebtZRa9Y70C'></span></strong>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/CAMoEiT.jpg' alt="sym" width="500" height="200"></div></div>
