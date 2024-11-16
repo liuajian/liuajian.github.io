@@ -46,7 +46,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/CAMoEiT.jpg' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<big>**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:mVmsd5A6BfQC'></span></strong>[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<big>**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:mVmsd5A6BfQC'></span></strong>[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='isWtY64AAAAJ:mVmsd5A6BfQC'></span></strong>
 
 ***Ajian Liu***
 
