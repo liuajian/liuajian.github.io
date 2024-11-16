@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 S Zhang, X Wang, **A Liu**, C Zhao, J Wan, S Escalera, H Shi, Z Wang, SZ Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=isWtY64AAAAJ&citation_for_view=isWtY64AAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=isWtY64AAAAJ&citation_for_view=isWtY64AAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='isWtY64AAAAJ:9yKSN-GCB0IC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
