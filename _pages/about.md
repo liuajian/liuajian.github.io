@@ -26,6 +26,9 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
 
+<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+<span class='show_paper_citations' data='isWtY64AAAAJ:zYLM7Y9cAGgC'></span>
+
 # 🔥 News
 - *2024.10*: 🎉🎉 Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
 - *2024.09*: 🎉🎉 Elected among [Macao Young Scholars Program (澳门青年学者计划)](https://mp.weixin.qq.com/s/XceQ__2zRzMcSPTTC3L6MA), 共30人.
