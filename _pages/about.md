@@ -25,7 +25,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 Google Scholar: <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl=zh-CN'>< img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >).
 
 # 🔥 News
 - *2024.10*: 🎉🎉 Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
