@@ -26,6 +26,7 @@ Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
 # 🔥 News
+- *2024.12*: 🎉🎉 Two papers are accepted by AAAI 2025. The first Interpretable Face Anti-Spoofing paper.
 - *2024.10*: 🎉🎉 Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
 - *2024.09*: 🎉🎉 Elected among [Macao Young Scholars Program (澳门青年学者计划)](https://mp.weixin.qq.com/s/XceQ__2zRzMcSPTTC3L6MA), 共30人.
 - *2024.08*: 🎉🎉 Two paper are accepted by IJCB 2024.
