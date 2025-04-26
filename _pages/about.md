@@ -26,18 +26,23 @@ Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
 # 🔥 News
-- *2024.12*: 🎉🎉 Two papers are accepted by AAAI 2025. The first Interpretable Face Anti-Spoofing paper.
-- *2024.10*: 🎉🎉 Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
+- *2025.04*: 🎉🎉 [Jiabao Guo]. One paper for DG FAS is accepted by TMM.
+- *2025.04*: 🎉🎉 [Zuying Xie]. One paper for Unified Physical-Digital Detection is accepted by ICME 2025.
+- *2025.03*: 🎉🎉 [Hao Tan]. One paper for Open-Vocabulary Multi-Label Recognition is accepted by CVPR 2025.
+- *2024.12*: 🎉🎉 [Guosheng Zhang, Shunxin Chen]. Two papers are accepted by AAAI 2025 and rated as oral.
+- *2024.12*: 🎉🎉 [Hao Tan]. One paper for Pedestrian Attribute Recognition is accepted by TMM.
+- *2024.12*: 🎉🎉 [Zitong Yu]. One paper for Flexible-modal FAS is accepted by TDSC.
+- *2024.10*: 🎉🎉 [Ajian Liu, Xun Lin]. Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
 - *2024.09*: 🎉🎉 Elected among [Macao Young Scholars Program (澳门青年学者计划)](https://mp.weixin.qq.com/s/XceQ__2zRzMcSPTTC3L6MA), 共30人.
-- *2024.08*: 🎉🎉 Two paper are accepted by IJCB 2024.
+- *2024.08*: 🎉🎉 [Hang Zou, Ying Zhang]. Two paper are accepted by IJCB 2024.
 - *2024.08*: 🎉🎉 A project on UniAttackDetection is granted by Young Scientists Fund of the Natural Science Foundation of China.
 - *2024.07*: 🎉🎉 Invited keynote talk for Visual Intelligence (期刊投稿数据集论文的经验).
-- *2024.05*: 🎉🎉 One paper for Generalizable Face Anti-spoofing is accepted by IJCV 2024.
-- *2024.04*: 🎉🎉 One paper is accepted by ICASSP 2024.
-- *2024.03*: 🎉🎉 One paper for Incremental Learning is accepted by AAAI 2024.
-- *2024.02*: 🎉🎉 One paper for Generalizable Face Anti-spoofing is accepted by CVPR 2024 as Highlight!
+- *2024.05*: 🎉🎉 [Ajian Liu]. One paper for Generalizable Face Anti-spoofing is accepted by IJCV 2024.
+- *2024.04*: 🎉🎉 [Hao Fang]. One paper is accepted by ICASSP 2024.
+- *2024.03*: 🎉🎉 [Keyao Wang]. One paper for Incremental Learning is accepted by AAAI 2024.
+- *2024.02*: 🎉🎉 [Ajian Liu]. One paper for Generalizable Face Anti-spoofing is accepted by CVPR 2024 as Highlight!
 - *2024.02*: 🎉🎉 Elected among [2024-2026年度北京市青年人才托举工程](https://www.bast.net.cn/art/2024/2/8/art_31266_19153.html).
-- *2024.01*: 🎉🎉 One paper for Unified Physical-Digital is accepted by IJCAI 2024.
+- *2024.01*: 🎉🎉 [Hao Fang]. One paper for Unified Physical-Digital is accepted by IJCAI 2024.
 
 # 📝 Publications (# equal contribution, * corresponding author)
 # 📕 Book Chapter:
