@@ -145,7 +145,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - [1] Fengmei Liang, Yajun Xu, Weixin Li, Xiaoling Ning, Xueou Liu, **Ajian Liu**. "**Recognition algorithm based on improved FCM and rough sets for meibomian gland morphology**”. Applied Sciences, 2017.
   
 # 📋 Conferences
-- [24] Zuying Xie, Changtao Miao, **Ajian Liu#**, Jiabao Guo, Feng Li, Dan Guo, Yunfeng Diao. "**SUEDE: Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**”. IEEE International Conference on Multimedia & Expo (ICME), 2025.
+- [24] Zuying Xie, Changtao Miao, **Ajian Liu***, Jiabao Guo, Feng Li, Dan Guo, Yunfeng Diao. "**SUEDE: Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**”. IEEE International Conference on Multimedia & Expo (ICME), 2025.
 - [23] Hao Tan, Zichang Tan, Jun Li, **Ajian Liu**, Jun Wan, Zhen Lei. "**Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 - [22] Shunxin Chen#, **Ajian Liu#**, Junze Zheng, Jun Wan, Kailai Peng, Sergio Escalera, Zhen Lei. "**Mixture-of-Attack-Experts with Class Regularization for Unified Physical-Digital Face Attack Detection**”. Proceedings of the AAAI Conference on Artificial Intelligence (Oral), 2025.
 - [21] Guosheng Zhang, Keyao Wang, Haixiao Yue, **Ajian Liu***, Gang Zhang, Kun Yao, Errui Ding, Jingdong Wang. "**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**”. Proceedings of the AAAI Conference on Artificial Intelligence (Oral), 2025.
