@@ -29,6 +29,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - *2025.04*: 🎉🎉 [Jiabao Guo]. One paper for DG FAS is accepted by TMM.
 - *2025.04*: 🎉🎉 [Zuying Xie]. One paper for Unified Physical-Digital Detection is accepted by ICME 2025.
 - *2025.03*: 🎉🎉 [Hao Tan]. One paper for Open-Vocabulary Multi-Label Recognition is accepted by CVPR 2025.
+- *2025.01*: 🎉🎉 被聘请为北京物联网学会理事，任期2年。
 - *2024.12*: 🎉🎉 [Guosheng Zhang, Shunxin Chen]. Two papers are accepted by AAAI 2025 and rated as oral.
 - *2024.12*: 🎉🎉 [Hao Tan]. One paper for Pedestrian Attribute Recognition is accepted by TMM.
 - *2024.12*: 🎉🎉 [Zitong Yu]. One paper for Flexible-modal FAS is accepted by TDSC.
