@@ -145,6 +145,10 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - [1] Fengmei Liang, Yajun Xu, Weixin Li, Xiaoling Ning, Xueou Liu, **Ajian Liu**. "**Recognition algorithm based on improved FCM and rough sets for meibomian gland morphology**”. Applied Sciences, 2017.
   
 # 📋 Conferences
+- [24] Zuying Xie, Changtao Miao, **Ajian Liu#**, Jiabao Guo, Feng Li, Dan Guo, Yunfeng Diao. "**SUEDE: Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**”. IEEE International Conference on Multimedia & Expo (ICME), 2025.
+- [23] Hao Tan, Zichang Tan, Jun Li, **Ajian Liu**, Jun Wan, Zhen Lei. "**Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+- [22] Shunxin Chen#, **Ajian Liu#**, Junze Zheng, Jun Wan, Kailai Peng, Sergio Escalera, Zhen Lei. "**Mixture-of-Attack-Experts with Class Regularization for Unified Physical-Digital Face Attack Detection**”. Proceedings of the AAAI Conference on Artificial Intelligence (Oral), 2025.
+- [21] Guosheng Zhang, Keyao Wang, Haixiao Yue, **Ajian Liu***, Gang Zhang, Kun Yao, Errui Ding, Jingdong Wang. "**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**”. Proceedings of the AAAI Conference on Artificial Intelligence (Oral), 2025.
 - [20] **Ajian Liu#**, Hui Ma#, Junze Zheng, Haocheng Yuan, Xiaoyuan Yu, Yanyan Liang, Sergio Escalera, Jun Wan, Zhen Lei. "**FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing**”. Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2024.
 - [19] Xun Lin, Yi Yu, Zitong Yu, Ruohan Meng, Jiale Zhou, **Ajian Liu**, Yizhong Liu, Shuai Wang, Wenzhong Tang, Zhen Lei, Alex Ko. "**HideMIA: Hidden Wavelet Mining for Privacy-Enhancing Medical Image Analysis**”. Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2024.
 - [18] Hang Zou, Chenxi Du, Hui Zhang, Yuan Zhang, **Ajian Liu***, Jun Wan, Zhen Lei. "**La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection**". International Joint Conference on Biometrics (IJCB), 2024.
@@ -190,6 +194,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - 国家重点研发计划, 人像鉴定及活体检测系统攻击检测与防御技术研究, 2021-12 至 2024-11, 130万元, 在研, 参与.
 
 # 🕵️ Membership
+- 北京物联网学会理事2025-2027
 - 中国图象图形学会数字媒体取证与安全专委会委员
 - IEEE Senior Member
 
