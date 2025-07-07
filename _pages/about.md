@@ -165,7 +165,7 @@ Shifeng Zhang#, ***Ajian Liu#***, Jun Wan, Yanyan Liang, Guodong Guo, Sergio Esc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2023</div><img src='data_suhifimask.jpg' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2023</div><img src='images/data_suhifimask.jpg' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <big>**CASIA-SuHiFiMask**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:Se3iqnhoufwC'></span></strong>
@@ -177,7 +177,7 @@ Hao Fang#, ***Ajian Liu#***, Jun Wan, Sergio Escalera, Chenxu Zhao, Xu Zhang, St
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='data_uniattack.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/data_uniattack.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <big>**UniAttackData**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:_kc_bZDykSQC'></span></strong>
@@ -189,7 +189,7 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='data_UniAttackDataPlus.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/data_UniAttackDataPlus.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <big>**UniAttackData+**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:BqipwSGYUEgC'></span></strong>
