@@ -128,9 +128,13 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 </div>
 </div>
 
+# 🌟 Representative Dataset:
+
+
 # 📖Journals:
-- [14] Jiabao Guo, **Ajian Liu***, Yunfeng Diao, Jin Zhang, Hui Ma, Bo Zhao, Richang Hong, Meng Wang. "**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**". IEEE Transactions on Multimedia (TMM), 2025.
-- [13] Hao Tan, Zichang Tan, Dunfang Weng, **Ajian Liu**, Jun Wan, Zhen Lei, Stan Z Li. "**Vision Transformer With Relation Exploration for Pedestrian Attribute Recognition**". IEEE Transactions on Multimedia (TMM), 2024.
+- [15] Ning Li, Ajian Liu, Zhenwei Zhu, Xuxin Lin, Hui Ma, Hong-Ning Dai, Yanyan Liang. "**Knowledge Distillation-Based Anomaly Detection via Adaptive Discrepancy Optimization**". IEEE Transactions on Industrial Informatics (TII), 2025/6/11.
+- [14] Xun Lin#, **Ajian Liu#**, Zitong Yu, Rizhao Cai, Shuai Wang, Yi Yu, Jun Wan, Zhen Lei, Xiaochun Cao, Alex Kot. "**Reliable and Balanced Transfer Learning for Generalized Multimodal Face Anti-Spoofing**". IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025/5/26.
+- [13] Jiabao Guo, **Ajian Liu***, Yunfeng Diao, Jin Zhang, Hui Ma, Bo Zhao, Richang Hong, Meng Wang. "**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**". IEEE Transactions on Multimedia (TMM), 2025.
 - [12] Zitong Yu, Rizhao Cai, Yawen Cui, **Ajian Liu**, Changsheng Chen. "**Visual prompt flexible-modal face anti-spoofing**". IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.
 - [11] **Ajian Liu**. "**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**". International Journal of Computer Vision (IJCV), 2024.
 - [10] Hao Tan, Zichang Tan, Dunfang Weng, **Ajian Liu**, Jun Wan, Zhen Lei, Stan Z. Li, "**Vision Transformer with Relation Exploration for Pedestrian Attribute Recognition**". IEEE Transactions on Multimedia (TMM), 2024.
