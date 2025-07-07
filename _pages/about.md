@@ -189,7 +189,7 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/data_UniAttackDataPlus.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/data_UniAttackDataPlus.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <big>**UniAttackData+**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:BqipwSGYUEgC'></span></strong>
