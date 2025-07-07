@@ -22,7 +22,7 @@ I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Prof. <a h
 
 My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
 
-Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >)/(<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >).
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
 # 🔥 News
@@ -202,7 +202,7 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 </div>
 
 # 📖Journals:
-- [15] Ning Li, Ajian Liu, Zhenwei Zhu, Xuxin Lin, Hui Ma, Hong-Ning Dai, Yanyan Liang. "**Knowledge Distillation-Based Anomaly Detection via Adaptive Discrepancy Optimization**". IEEE Transactions on Industrial Informatics (TII), 2025/6/11.
+- [15] Ning Li, **Ajian Liu**, Zhenwei Zhu, Xuxin Lin, Hui Ma, Hong-Ning Dai, Yanyan Liang. "**Knowledge Distillation-Based Anomaly Detection via Adaptive Discrepancy Optimization**". IEEE Transactions on Industrial Informatics (TII), 2025/6/11.
 - [14] Xun Lin#, **Ajian Liu#**, Zitong Yu, Rizhao Cai, Shuai Wang, Yi Yu, Jun Wan, Zhen Lei, Xiaochun Cao, Alex Kot. "**Reliable and Balanced Transfer Learning for Generalized Multimodal Face Anti-Spoofing**". IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025/5/26.
 - [13] Jiabao Guo, **Ajian Liu***, Yunfeng Diao, Jin Zhang, Hui Ma, Bo Zhao, Richang Hong, Meng Wang. "**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**". IEEE Transactions on Multimedia (TMM), 2025.
 - [12] Zitong Yu, Rizhao Cai, Yawen Cui, **Ajian Liu**, Changsheng Chen. "**Visual prompt flexible-modal face anti-spoofing**". IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.
