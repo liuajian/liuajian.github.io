@@ -175,7 +175,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - **CVPR2023**, **CASIA-SuHiFiMask**, Surveillance Face Presentation Attack Detection, **403/19**.
 - **ICCV2021**, **CASIA-HiFiMask**, 3D High-Fidelity Mask Face Presentation Attack Detection, **195/18**.
 - **CVPR2020**, **CASIA-CeFA**, Cross-ethnicity Face Anti-spoofing, **340/19**.
-- **CVPR2019**, **CASIA-SURF**, Multi-modal Face Anti-spoofing Attack Detection Challenge, **503/4**.
+- **CVPR2019**, **[CASIA_SURF](https://pan.baidu.com/s/1QFDRr-Ovzob6rQYpKeb8wg?pwd=692v)**, Multi-modal Face Anti-spoofing Attack Detection Challenge, **503/4**.
 - Keynote Speakers: Stan Z. Li, Abdenour Hadid, Xiaoming Liu, Guodong Guo, Sébastien Marcela, Guoying Zhao, Ajay Kumar, Alex Kot, Shiguang Shan, Lizhuang Ma, Karthik Nandakumar, Xiang Xu.
 
 # 🎖 Honors and Awards
