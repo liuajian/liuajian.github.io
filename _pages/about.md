@@ -129,7 +129,77 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 </div>
 
 # 🌟 Representative Dataset:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBIOM 2020</div><img src='images/data_casia_surf.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<big>**CASIA-SURF**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Shifeng Zhang#, ***Ajian Liu#***, Jun Wan, Yanyan Liang, Guodong Guo, Sergio Escalera, Hugo Jair Escalante, Stan Z Li
+
+[[**PDF**]](https://arxiv.org/pdf/1908.10654)
+[[**Baidu Cloud Link**]](https://pan.baidu.com/s/1QFDRr-Ovzob6rQYpKeb8wg?pwd=692v)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2021</div><img src='images/data_casia_cefa.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<big>**CASIA-CeFA**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:qjMakFHDy7sC'></span></strong>
+
+***Ajian Liu***, Zichang Tan, Jun Wan, Sergio Escalera, Guodong Guo, Stan Z Li
+
+[[**PDF**]](https://openaccess.thecvf.com/content/WACV2021/papers/Liu_CASIA-SURF_CeFA_A_Benchmark_for_Multi-Modal_Cross-Ethnicity_Face_Anti-Spoofing_WACV_2021_paper.pdf)
+[[**Baidu Cloud Link**]](https://pan.baidu.com/s/1LsxqGcTi5hNvDoYMvdhGrA?pwd=86C6)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/data_hifimask.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<big>**CASIA-HiFiMask**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:IjCSPb-OGe4C'></span></strong>
+
+***Ajian Liu***, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang
+
+[[**PDF**]](https://arxiv.org/pdf/2305.03277)
+[[**Baidu Cloud Link**]](https://pan.baidu.com/s/1RDtbIN7bD6_i89s00kax_A?pwd=A67C))
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2023</div><img src='data_suhifimask.jpg' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<big>**CASIA-SuHiFiMask**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:Se3iqnhoufwC'></span></strong>
+
+Hao Fang#, ***Ajian Liu#***, Jun Wan, Sergio Escalera, Chenxu Zhao, Xu Zhang, Stan Z Li, Zhen Lei
+
+[[**PDF**]](https://arxiv.org/pdf/2301.00975)
+[[**Baidu Cloud Link**]](https://pan.baidu.com/s/18DNJf7aoODr0cSlIVOLaiw?pwd=6pYX)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='data_uniattack.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<big>**UniAttackData**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:_kc_bZDykSQC'></span></strong>
+
+Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong Liu, Jiankang Deng, Sergio Escalera, Xiaoming Liu, Jun Wan, Zhen Lei
+
+[[**PDF**]](https://arxiv.org/pdf/2401.17699)
+[[**Baidu Cloud Link**]](https://pan.baidu.com/s/1g6_-ce1M2iYNJD3Jx1CUoQ?pwd=wLu8)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='data_UniAttackDataPlus.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<big>**UniAttackData+**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:BqipwSGYUEgC'></span></strong>
+
+***Ajian Liu***, Haocheng Yuan, Xiao Guo, Hui Ma, Wanyi Zhuang, Changtao Miao, Yan Hong, Chuanbiao Song, Jun Lan, Qi Chu, Tao Gong, Yanyan Liang, Weiqiang Wang, Jun Wan, Xiaoming Liu, Zhen Lei
+
+[[**PDF**]](https://arxiv.org/pdf/2505.13327?)
+[**Baidu Cloud Link**](https://pan.baidu.com/s/1JbKy7jcUCH9vDYjlrLYwiw?pwd=EX18)
+</div>
+</div>
 
 # 📖Journals:
 - [15] Ning Li, Ajian Liu, Zhenwei Zhu, Xuxin Lin, Hui Ma, Hong-Ning Dai, Yanyan Liang. "**Knowledge Distillation-Based Anomaly Detection via Adaptive Discrepancy Optimization**". IEEE Transactions on Industrial Informatics (TII), 2025/6/11.
