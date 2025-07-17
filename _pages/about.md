@@ -20,9 +20,10 @@ I am currently an Assistant Researcher in the State Key Laboratory of Multimodal
 
 I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Prof. <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei (雷震, IEEE Fellow)</a>. I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) <img src='images/must.png' width="30" height="30" /> with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by Prof. [Stan Z. Li (李子青, IEEE Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
 
-My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
+My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM. Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >).
 
-Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >).
+<a href='https://scholar.google.com/citations?user=93wHW4oAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a>. <a href='https://scholar.google.com/citations?user=93wHW4oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
 # 🔥 News
