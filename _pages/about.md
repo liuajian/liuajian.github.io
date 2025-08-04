@@ -22,7 +22,7 @@ I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Prof. <a h
 
 My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM. 
 
-Google Scholar: <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+{% Google Scholar: <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> %}
 
 Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >)/(<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -57,8 +57,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/CAMoEiT.jpg' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<big>**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:mVmsd5A6BfQC'></span></strong> </big><strong><span class='show_paper_citations' data='93wHW4oAAAAJ:UebtZRa9Y70C'></span></strong>
-
+<big>**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:mVmsd5A6BfQC'></span></strong> </big>
 ***Ajian Liu***
 
 [[**PDF**]](https://link.springer.com/article/10.1007/s11263-024-02135-2)
@@ -68,7 +67,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2021</div><img src='images/CycleGAN.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<big>**Face anti-spoofing via adversarial cross-modality translation**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:zYLM7Y9cAGgC'></span></strong>
+<big>**Face anti-spoofing via adversarial cross-modality translation**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:zYLM7Y9cAGgC'></span></strong> </big>
 
 ***Ajian Liu***, Zichang Tan, Jun Wan, Yanyan Liang, Zhen Lei, Guodong Guo, Stan Z Li
 
@@ -79,7 +78,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/hifimask.jpg' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<big>**Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:IjCSPb-OGe4C'></span></strong>
+<big>**Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:IjCSPb-OGe4C'></span></strong> </big>
 
 ***Ajian Liu***, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang
 
@@ -90,7 +89,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2023</div><img src='images/fmvit.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<big>**FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:0EnyYjriUFMC'></span></strong>
+<big>**FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:0EnyYjriUFMC'></span></strong> </big>
 
 ***Ajian Liu***, Zichang Tan, Zitong Yu, Chenxu Zhao, Jun Wan, Yanyan Liang, Zhen Lei, Du Zhang, Stan Z Li, Guodong Guo
 
@@ -101,7 +100,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (Highlight!)</div><img src='images/CFPL_FAS.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<big>**CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:M3ejUd6NZC8C'></span></strong>
+<big>**CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:M3ejUd6NZC8C'></span></strong> </big>
 
 ***Ajian Liu***, Shuai Xue, Jianwen Gan, Jun Wan, Yanyan Liang, Jiankang Deng, Sergio Escalera, Zhen Lei
 
