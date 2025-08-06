@@ -68,7 +68,6 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box-text' markdown="1">
 
 <big>**Face anti-spoofing via adversarial cross-modality translation**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:zYLM7Y9cAGgC'></span></strong> </big>
-
 ***Ajian Liu***, Zichang Tan, Jun Wan, Yanyan Liang, Zhen Lei, Guodong Guo, Stan Z Li
 
 [[**PDF**]](https://drive.google.com/file/d/147lc7vvp4ud1ZLjH1FH24ry_oDgP0Ap5/view)
@@ -79,7 +78,6 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box-text' markdown="1">
 
 <big>**Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:IjCSPb-OGe4C'></span></strong> </big>
-
 ***Ajian Liu***, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang
 
 [[**PDF**]](https://arxiv.org/pdf/2104.06148)
@@ -90,7 +88,6 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box-text' markdown="1">
 
 <big>**FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:0EnyYjriUFMC'></span></strong> </big>
-
 ***Ajian Liu***, Zichang Tan, Zitong Yu, Chenxu Zhao, Jun Wan, Yanyan Liang, Zhen Lei, Du Zhang, Stan Z Li, Guodong Guo
 
 [[**PDF**]](https://arxiv.org/pdf/2305.03277)
@@ -101,7 +98,6 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box-text' markdown="1">
 
 <big>**CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:M3ejUd6NZC8C'></span></strong> </big>
-
 ***Ajian Liu***, Shuai Xue, Jianwen Gan, Jun Wan, Yanyan Liang, Jiankang Deng, Sergio Escalera, Zhen Lei
 
 [[**PDF**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_CFPL-FAS_Class_Free_Prompt_Learning_for_Generalizable_Face_Anti-spoofing_CVPR_2024_paper.pdf)
@@ -110,9 +106,8 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ACMM.jpg' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 <big>**FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:9ZlFYXVOiuMC'></span></strong>
-
 ***Ajian Liu***, Hui Ma, Junze Zheng, Haocheng Yuan, Xiaoyuan Yu, Yanyan Liang, Sergio Escalera, Jun Wan, Zhen Lei
 
 [[**PDF**]](https://dl.acm.org/doi/pdf/10.1145/3664647.3680856)
@@ -123,7 +118,6 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box-text' markdown="1">
 
 <big>**Ma-vit: Modality-agnostic vision transformers for face anti-spoofing**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:3fE2CSJIrl8C'></span></strong>
-
 ***Ajian Liu***, Yanyan Liang
 
 [[**PDF**]](https://arxiv.org/pdf/2304.07549)
@@ -135,7 +129,6 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box-text' markdown="1">
 
 <big>**CASIA-SURF**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:YsMSGLbcyi4C'></span></strong>
-
 Shifeng Zhang#, ***Ajian Liu#***, Jun Wan, Yanyan Liang, Guodong Guo, Sergio Escalera, Hugo Jair Escalante, Stan Z Li
 
 [[**PDF**]](https://arxiv.org/pdf/1908.10654)
