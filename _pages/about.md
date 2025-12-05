@@ -24,7 +24,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 
 {% Google Scholar: <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> %}
 
-Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >)/(<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+%Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >)/(<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
@@ -197,6 +197,11 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 </div>
 
 # 📖Journals:
+- [20] Hang Zou, Chenxi Du, **Ajian Liu**, Yuan Zhang, Jing Liu, Mingchuan Yang, Jun Wan, Hui Zhang, Zhenan Sun. "**Towards Generalized Iris Presentation Attack Detection: A Mask-and-Distill Mixture of Experts Approach**". IEEE Transactions on Information Forensics and Security (TIFS), 2026.
+- [19] Yongze Li, Ning Li, **Ajian Liu***, Hui Ma, Liying Yang, Xihong Chen, Zhiyao Liang, Yanyan Liang, Jun Wan, Zhen Lei. "**FA^{3}-CLIP: Frequency-Aware Cues Fusion and Attack-Agnostic Prompt Learning for Unified Face Attack Detection**". IEEE Transactions on Information Forensics and Security (TIFS), 2025.
+- [18] Shunxin Chen#, **Ajian Liu#**, Hao Fang, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong Liu, Jiankang Deng, Sergio Escalera, Xiaoming Liu, Jun Wan, Zhen Lei. "**UniAttack: Unified Physical-Digital Face Attack Detection**". International Journal of Computer Vision (IJCV), 2025.
+- [17] Hui Ma#, **Ajian Liu#**, Shuai Xue, Yunfeng Diao, Dashuang Liang, Hailun Liang, Yanyan Liang, Jun Wan, Xun Yang, ZhenZhen Hu, Zhen Lei. "**CLIP-SA: CLIP-Guided Semantic Alignment for Generalizable Face Anti-spoofing**". IEEE Transactions on Multimedia (TMM), 2025/9/16.
+- [16] Ning Li, **Ajian Liu**, Chaohao Jiang, Suigu Tang, Yongze Li, Yanyan Liang. "**Dual-teacher guided denoising distillation for anomaly detection**". IEEE Access, 2025/10/1.
 - [15] Ning Li, **Ajian Liu**, Zhenwei Zhu, Xuxin Lin, Hui Ma, Hong-Ning Dai, Yanyan Liang. "**Knowledge Distillation-Based Anomaly Detection via Adaptive Discrepancy Optimization**". IEEE Transactions on Industrial Informatics (TII), 2025/6/11.
 - [14] Xun Lin#, **Ajian Liu#**, Zitong Yu, Rizhao Cai, Shuai Wang, Yi Yu, Jun Wan, Zhen Lei, Xiaochun Cao, Alex Kot. "**Reliable and Balanced Transfer Learning for Generalized Multimodal Face Anti-Spoofing**". IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025/5/26.
 - [13] Jiabao Guo, **Ajian Liu***, Yunfeng Diao, Jin Zhang, Hui Ma, Bo Zhao, Richang Hong, Meng Wang. "**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**". IEEE Transactions on Multimedia (TMM), 2025.
@@ -214,6 +219,10 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 - [1] Fengmei Liang, Yajun Xu, Weixin Li, Xiaoling Ning, Xueou Liu, **Ajian Liu**. "**Recognition algorithm based on improved FCM and rough sets for meibomian gland morphology**”. Applied Sciences, 2017.
   
 # 📋 Conferences
+- [28] Xinxing Yu, **Ajian Liu***, Sunyuan Qiang, Yuzhong Wang, Hui Ma, Yanyan Liang. "**PointMC: Multi-view Consistent Encoding and Center-Global Feature Fusion for Point Clouds Understanding**”. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026/1/20.
+- [27] Tianshun Han, Benjia Zhou, **Ajian Liu**, Yanyan Liang, Du Zhang, Zhen Lei, Jun Wan. "**PESTalk: Speech-Driven 3D Facial Animation with Personalized Emotional Styles**”. Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025/10/27.
+- [26] Xinqi Su, Zitong Yu, Yawen Cui, **Ajian Liu**, Xun Lin, Yuhao Wang, Haochen Liang, Wenhui Li, Li Shen, Xiaochun Cao. "**Dynamic analysis and adaptive discriminator for fake news detection**”. Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025/10/27.
+- [25] Liying Yang, Chen Liu, Zhenwei Zhu, **Ajian Liu**, Hui Ma, Jian Nong, Yanyan Liang. "**Not all frame features are equal: Video-to-4d generation via decoupling dynamic-static features**”. International Conference on Computer Vision (ICCV), 2025/10/19.
 - [24] Zuying Xie, Changtao Miao, **Ajian Liu***, Jiabao Guo, Feng Li, Dan Guo, Yunfeng Diao. "**SUEDE: Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**”. IEEE International Conference on Multimedia & Expo (ICME), 2025.
 - [23] Hao Tan, Zichang Tan, Jun Li, **Ajian Liu**, Jun Wan, Zhen Lei. "**Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 - [22] Shunxin Chen#, **Ajian Liu#**, Junze Zheng, Jun Wan, Kailai Peng, Sergio Escalera, Zhen Lei. "**Mixture-of-Attack-Experts with Class Regularization for Unified Physical-Digital Face Attack Detection**”. Proceedings of the AAAI Conference on Artificial Intelligence (Oral), 2025.
