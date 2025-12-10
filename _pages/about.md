@@ -26,25 +26,40 @@ Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit
 
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
-# 🔥 News
-- *2025.04*: 🎉🎉 [Jiabao Guo]. One paper for DG FAS is accepted by TMM.
-- *2025.04*: 🎉🎉 [Zuying Xie]. One paper for Unified Physical-Digital Detection is accepted by ICME 2025.
-- *2025.03*: 🎉🎉 [Hao Tan]. One paper for Open-Vocabulary Multi-Label Recognition is accepted by CVPR 2025.
-- *2025.01*: 🎉🎉 被聘请为北京物联网学会理事，任期2年。
-- *2024.12*: 🎉🎉 [Guosheng Zhang, Shunxin Chen]. Two papers are accepted by AAAI 2025 and rated as oral.
-- *2024.12*: 🎉🎉 [Hao Tan]. One paper for Pedestrian Attribute Recognition is accepted by TMM.
-- *2024.12*: 🎉🎉 [Zitong Yu]. One paper for Flexible-modal FAS is accepted by TDSC.
-- *2024.10*: 🎉🎉 [Ajian Liu, Xun Lin]. Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
-- *2024.09*: 🎉🎉 Elected among [Macao Young Scholars Program (澳门青年学者计划)](https://mp.weixin.qq.com/s/XceQ__2zRzMcSPTTC3L6MA), 共30人.
-- *2024.08*: 🎉🎉 [Hang Zou, Ying Zhang]. Two paper are accepted by IJCB 2024.
-- *2024.08*: 🎉🎉 A project on UniAttackDetection is granted by Young Scientists Fund of the Natural Science Foundation of China.
-- *2024.07*: 🎉🎉 Invited keynote talk for Visual Intelligence (期刊投稿数据集论文的经验).
-- *2024.05*: 🎉🎉 [Ajian Liu]. One paper for Generalizable Face Anti-spoofing is accepted by IJCV 2024.
-- *2024.04*: 🎉🎉 [Hao Fang]. One paper is accepted by ICASSP 2024.
-- *2024.03*: 🎉🎉 [Keyao Wang]. One paper for Incremental Learning is accepted by AAAI 2024.
-- *2024.02*: 🎉🎉 [Ajian Liu]. One paper for Generalizable Face Anti-spoofing is accepted by CVPR 2024 as Highlight!
-- *2024.02*: 🎉🎉 Elected among [2024-2026年度北京市青年人才托举工程](https://www.bast.net.cn/art/2024/2/8/art_31266_19153.html).
-- *2024.01*: 🎉🎉 [Hao Fang]. One paper for Unified Physical-Digital is accepted by IJCAI 2024.
+# 🔥 News(My CCF-A and SCI-1 papers as first, co-first, or corresponding author. I would like to thank all the authors for their contributions.)
+
+- *2025.11*: 🎉🎉 [Xinxing Yu] 指导学生发表 CCF-A 会议论文 AAAI-2026，3D 点云重建方向，通信作者。
+- *2025.10*: 🎉🎉 [Ajian Liu] 基于 ICCV-2025 举办第 6 届人脸活体检测研讨会与竞赛，发布 UniAttackData++ 数据集，联合攻击检测竞赛，联合主席身份。
+- *2025.09*: 🎉🎉 [Shunxin Chen] 指导学生发表 SCI-1 期刊论文 IJCV-2026，联合攻击检测算法，共同第一作者。
+- *2025.09*: 🎉🎉 [Hui Ma] 指导学生发表 SCI-1 期刊论文 TMM-2025（本领域 Top 5% 期刊），域泛化的人脸活体检测算法，通信作者。
+- *2025.05*: 🎉🎉 [Xun Lin] 指导学生发表 SCI-1 期刊论文 TPAMI-2025（本领域 Top 5% 期刊），多模态域泛化的人脸活体检测算法，共同第一作者。
+- *2025.04*: 🎉🎉 [Yongze Li] 指导学生发表 SCI-1 期刊论文 TIFS-2025，联合攻击检测算法，通信作者。
+- *2025.04*: 🎉🎉 [Jiabao Guo] 指导学生发表 SCI-1 期刊论文 TMM-2025（本领域 Top 5% 期刊），域泛化的人脸活体检测算法，通信作者。
+- *2025.01*: 🎉🎉 [Ajian Liu] 被聘请为北京物联网学会理事，任期 2 年。
+- *2024.12*: 🎉🎉 [Shunxin Chen] 指导学生发表 CCF-A 会议论文 AAAI-2025（Oral），联合攻击检测算法，共同第一作者。
+- *2024.12*: 🎉🎉 [Guosheng Zhang] 与百度合作发表 CCF-A 会议论文 AAAI-2025（Oral），首个可解释的人脸活体检测算法，通信作者。
+- *2024.10*: 🎉🎉 [Ajian Liu] 发表第 7 篇 CCF-A 会议论文 ACM MM-2024，灵活模态的人脸活体检测算法，第一作者。
+- *2024.09*: 🎉🎉 [Ajian Liu] 获批 [澳门青年学者计划](https://mp.weixin.qq.com/s/XceQ__2zRzMcSPTTC3L6MA)，经费 72 万，主持。
+- *2024.08*: 🎉🎉 [Ajian Liu] 获批国家自然科学基金青年科学基金项目，经费 30 万，主持。
+- *2024.07*: 🎉🎉 [Ajian Liu] 受邀在 Visual Intelligence 期刊发展研讨会上作“期刊投稿数据集论文的经验”报告。
+- *2024.06*: 🎉🎉 [Ajian Liu] 基于 CVPR-2024 举办第 5 届人脸活体检测研讨会与竞赛，发布 UniAttackData 数据集，联合攻击检测竞赛，联合主席身份。
+- *2024.05*: 🎉🎉 [Ajian Liu] 发表第 6 篇 CCF-A 论文（IJCV-2024，单独作者），域泛化的人脸活体检测算法，第一作者。
+- *2024.03*: 🎉🎉 [Keyao Wang] 与百度合作发表 CCF-A 会议论文 AAAI-2024，基于增量学习的人脸活体检测算法，通信作者。
+- *2024.02*: 🎉🎉 [Ajian Liu] 发表第 5 篇 CCF-A 会议论文 CVPR-2024（Highlight），域泛化的人脸活体检测算法，第一作者。
+- *2024.02*: 🎉🎉 [Ajian Liu] 入选 [2024–2026 年度北京市青年人才托举工程](https://www.bast.net.cn/art/2024/2/8/art_31266_19153.html)。
+- *2024.01*: 🎉🎉 [Hao Fang] 指导学生发表 CCF-A 会议论文 IJCAI-2024，首个联合攻击检测算法，共同第一作者。
+- *2023.12*: 🎉🎉 [Ajian Liu] 获批博士后科学基金第 74 批面上资助，经费 8 万，主持。
+- *2023.07*: 🎉🎉 [Ajian Liu] 发表第 4 篇 SCI-1 期刊论文 TIFS-2023，灵活模态的人脸活体检测算法，第一作者。
+- *2023.06*: 🎉🎉 [Hao Fang] 指导学生发表 SCI-1 期刊论文 TIFS-2023，监控场景的人脸活体检测算法，共同第一作者。
+- *2023.06*: 🎉🎉 [Ajian Liu] 基于 CVPR-2023 举办第 4 届人脸活体检测研讨会与竞赛，发布 SuHiFiMask 数据集，监控场景的人脸活体检测竞赛，联合主席身份。
+- *2022.08*: 🎉🎉 [Ajian Liu] 获批海外博士后引才专项，从澳门科技大学引进至中国科学院自动化研究所，总经费 93 万，主持。
+- *2022.07*: 🎉🎉 [Ajian Liu] 发表第 3 篇 CCF-A 会议论文 IJCAI-2022，首个灵活模态的人脸活体检测算法，第一作者。
+- *2022.07*: 🎉🎉 [Ajian Liu] 发表第 2 篇 SCI-1 期刊论文 TIFS-2022，高保真人脸活体检测数据集 HiFiMask 与基于对比纹理感知学习的面具伪造检测算法，第一作者。
+- *2021.10*: 🎉🎉 [Ajian Liu] 基于 ICCV-2021 举办第 3 届人脸活体检测研讨会与竞赛，发布 CASIA-HiFiMask 数据集，高保真面具人脸活体检测竞赛，联合主席身份。
+- *2021.03*: 🎉🎉 [Ajian Liu] 发表第 1 篇 SCI-1 期刊论文 TIFS-2021，跨模态转换的人脸活体检测算法，第一作者。
+- *2020.06*: 🎉🎉 [Ajian Liu] 基于 CVPR-2020 举办第 2 届人脸活体检测研讨会与竞赛，发布 CASIA-SURF CeFA 数据集，多种族人脸活体检测竞赛，联合主席身份。
+- *2019.06*: 🎉🎉 [Ajian Liu] 基于 CVPR-2019 举办第 1 届人脸活体检测研讨会与竞赛，发布 CASIA-SURF 数据集，多模态人脸活体检测竞赛，联合主席身份。
+- *2018.09*: 🎉🎉 26 岁博士入读澳门科技大学，开启科研旅程，导师李子青教授、万军研究员、梁延研教授。
 
 # 📝 Publications (# equal contribution, * corresponding author)
 # 📕 Book Chapter:
