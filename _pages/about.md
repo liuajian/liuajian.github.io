@@ -22,8 +22,6 @@ I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Prof. <a h
 
 My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM. 
 
-{% Google Scholar: <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> %}
-
 Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >)/(<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
@@ -155,7 +153,7 @@ Shifeng Zhang#, ***Ajian Liu#***, Jun Wan, Yanyan Liang, Guodong Guo, Sergio Esc
 ***Ajian Liu***, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang
 
 [[**PDF**]](https://arxiv.org/pdf/2305.03277)
-[[**Baidu Cloud Link**]](https://pan.baidu.com/s/1RDtbIN7bD6_i89s00kax_A?pwd=A67C))
+[[**Baidu Cloud Link**]](https://pan.baidu.com/s/1RDtbIN7bD6_i89s00kax_A?pwd=A67C)
 </div>
 </div>
 
@@ -196,6 +194,7 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 </div>
 
 # 📖Journals:
+
 - [20] Hang Zou, Chenxi Du, **Ajian Liu**, Yuan Zhang, Jing Liu, Mingchuan Yang, Jun Wan, Hui Zhang, Zhenan Sun. "**Towards Generalized Iris Presentation Attack Detection: A Mask-and-Distill Mixture of Experts Approach**". IEEE Transactions on Information Forensics and Security (TIFS), 2026.
 - [19] Yongze Li, Ning Li, **Ajian Liu***, Hui Ma, Liying Yang, Xihong Chen, Zhiyao Liang, Yanyan Liang, Jun Wan, Zhen Lei. "**FA^{3}-CLIP: Frequency-Aware Cues Fusion and Attack-Agnostic Prompt Learning for Unified Face Attack Detection**". IEEE Transactions on Information Forensics and Security (TIFS), 2025.
 - [18] Shunxin Chen#, **Ajian Liu#**, Hao Fang, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong Liu, Jiankang Deng, Sergio Escalera, Xiaoming Liu, Jun Wan, Zhen Lei. "**UniAttack: Unified Physical-Digital Face Attack Detection**". International Journal of Computer Vision (IJCV), 2025.
