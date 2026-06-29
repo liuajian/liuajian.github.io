@@ -38,7 +38,9 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - *2025.05*: 🎉🎉 [Xun Lin] 指导学生发表 SCI-1 期刊论文 TPAMI-2025（本领域 Top 5% 期刊），多模态域泛化的人脸活体检测算法，共同第一作者。
 - *2025.04*: 🎉🎉 [Yongze Li] 指导学生发表 SCI-1 期刊论文 TIFS-2025，联合攻击检测算法，通信作者。
 - *2025.04*: 🎉🎉 [Jiabao Guo] 指导学生发表 SCI-1 期刊论文 TMM-2025（本领域 Top 5% 期刊），域泛化的人脸活体检测算法，通信作者。
+- *2025.01*: 🎉🎉 [Ajian Liu] 获批浙江大学区块链与数据安全全国重点实验室开放课题，5万元，主持。
 - *2025.01*: 🎉🎉 [Ajian Liu] 被聘请为北京物联网学会理事，任期 2 年。
+- *2025.01*: 🎉🎉 [Ajian Liu] 入选斯坦福大学与爱思唯尔发布的2025年度“全球前2%顶尖科学家榜单”，所属领域为人工智能与图像处理。
 - *2024.12*: 🎉🎉 [Shunxin Chen] 指导学生发表 CCF-A 会议论文 AAAI-2025（Oral），联合攻击检测算法，共同第一作者。
 - *2024.12*: 🎉🎉 [Guosheng Zhang] 与百度合作发表 CCF-A 会议论文 AAAI-2025（Oral），首个可解释的人脸活体检测算法，通信作者。
 - *2024.10*: 🎉🎉 [Ajian Liu] 发表第 7 篇 CCF-A 会议论文 ACM MM-2024，灵活模态的人脸活体检测算法，第一作者。
@@ -62,7 +64,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - *2021.03*: 🎉🎉 [Ajian Liu] 发表第 1 篇 SCI-1 期刊论文 TIFS-2021，跨模态转换的人脸活体检测算法，第一作者。
 - *2020.06*: 🎉🎉 [Ajian Liu] 基于 CVPR-2020 举办第 2 届人脸活体检测研讨会与竞赛，发布 CASIA-SURF CeFA 数据集，联合主席身份。
 - *2019.06*: 🎉🎉 [Ajian Liu] 基于 CVPR-2019 举办第 1 届人脸活体检测研讨会与竞赛，发布 CASIA-SURF 数据集，联合主席身份。
-- *2018.09*: 🎉🎉 26 岁博士入读澳门科技大学，开启科研旅程，导师李子青教授、万军研究员、梁延研教授。
+- *2018.09*: 🎉🎉 博士入读澳门科技大学，开启科研旅程，导师李子青教授、万军研究员、梁延研教授。
 
 # 📝 Publications (# equal contribution, * corresponding author)
 # 📕 Book Chapter:
@@ -316,6 +318,7 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 - Keynote Speakers: Stan Z. Li, Abdenour Hadid, Xiaoming Liu, Guodong Guo, Sébastien Marcela, Guoying Zhao, Ajay Kumar, Alex Kot, Shiguang Shan, Lizhuang Ma, Karthik Nandakumar, Xiang Xu.
 
 # 🎖 Honors and Awards
+- 入选斯坦福大学与爱思唯尔发布的2025年度“全球前2%顶尖科学家榜单”，所属领域为人工智能与图像处理。
 - Macao Young Scholars Program (澳门青年学者计划), 2024.
 - 2024-2026年度北京市青年人才托举工程, 北京市科学技术协会，2024.
 - 1st Place of Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge at WACV (国际行人属性识别竞赛), 2023.
@@ -325,25 +328,29 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 - IEEE Transactions on Biometric Behavior and Identity Science (TBIOM), Best Paper Award (最佳论文奖), 2020.
 
 # 🚀 Projects and Funds
+- 浙江大学区块链与数据安全全国重点实验室, 2025-07 至 2027-07, 5万元, 主持.
 - 澳门青年学者计划, 2025-03 至 2027-03, 72万元, 主持.
 - 国家基金委青年科学基金项目, 2025-01 至 2027-12, 30万元, 主持.
 - 博士后科学基金第74批面上资助, 2023-12 至 2025-12, 8万元, 主持.
-- 国家重点研发计划, 人像鉴定及活体检测系统攻击检测与防御技术研究, 2021-12 至 2024-11, 130万元, 在研, 参与.
+- 海外博士后引才专项, 2022-12 至 2025-12, 93万元, 主持.
 
 # 🕵️ Membership
 - 北京物联网学会理事2025-2027
-- 中国图象图形学会数字媒体取证与安全专委会委员
+- CSIG-生物特征识别专委会
+- CSIG-数字媒体取证与安全专委会委员
 - IEEE Senior Member
 
 # 💬 Invited Talks
+- *2026.06.17*, 科研聚会-华为篇-ICML，ICML-2026 论文分享.
+- *2025.11.21*, CCBR论坛，TPAMI-2026 论文分享.
 - *2024.07.21*, 期刊投稿数据集论文的经验，Visual Intelligence 期刊发展研讨会.
 
 # 🧑‍💻 Guest Editors
 - Special Issue "**Trustworthy Multimodal Biometrics Authentication**", IET Biometrics (IF=1.8), 2024.
 
 # 📝 Journal/Conference Reviewer
-- IET Biometrics, TMM, TIFS, IJCV
-- PRCV, CCBR, FG, IJCB, ICME, IJCAI, ECCV, ACM MM, AAAI, NeurIPS, CVPR
+- TMM, TIFS, IJCV, TPAMI
+- IJCAI, ECCV, ACM MM, AAAI, NeurIPS, CVPR, ICML
   
 # 🕵️ Internships
 - *2021.07 - 2022.04*, IDL, Baidu Research, China <img src='images/baidu.jpg' width="40" height="40" />.
