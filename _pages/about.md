@@ -16,18 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently an Assistant Researcher in the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA) <img src='images/casia.png' width="30" height="30" />.
+I am currently an Associate Researcher in the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA) <img src='images/casia.png' width="30" height="30" />.
 
 I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Prof. <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei (雷震, IEEE Fellow)</a>. I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) <img src='images/must.png' width="30" height="30" /> with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by Prof. [Stan Z. Li (李子青, IEEE Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
 
-My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM. 
+My research interests include Face Anti-Spoofing (FAS), Deepfake Detection (DFD), and AI-Generated Content Detection. I have published more than 20 papers as the first or corresponding author in prestigious international journals and conferences, including TPAMI, IJCV, TIFS, TMM, CVPR, AAAI, and ACM MM.
 
 Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a > (<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a >)/(<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
-# 🔥 News(My CCF-A and SCI-1 papers as first, co-first, or corresponding author. I would like to thank all the authors for their contributions.)
-
+# 🔥 News(My CCF-A and IEEE-Trans papers as first, co-first, or corresponding author. I would like to thank all the authors for their contributions.)
+- *2026.06*: 🎉🎉 [Ajian Liu] 发表第 9 篇 CCF-A 期刊论文 IJCV-2026，基于类别-实例提示工程的域泛化人脸活体检测，第一作者。
+- *2026.03*: 🎉🎉 [Ajian Liu] 发表第 8 篇 CCF-A 期刊论文 TPAMI-2026，基于域引导提示分布学习的域泛化人脸活体检测，第一作者。
+- *2026.03*: 🎉🎉 [Ajian Liu] 晋升为副研员（科学研究序列），定量评估第二名。
+- *2026.02*: 🎉🎉 [Xinxing Yu] 指导学生发表 CCF-A 会议论文 CVPR-2026，3D 点云重建方向，通信作者。
 - *2025.11*: 🎉🎉 [Xinxing Yu] 指导学生发表 CCF-A 会议论文 AAAI-2026，3D 点云重建方向，通信作者。
 - *2025.10*: 🎉🎉 [Ajian Liu] 基于 ICCV-2025 举办第 6 届人脸活体检测研讨会与竞赛，发布 UniAttackData++ 数据集，联合主席身份。
 - *2025.09*: 🎉🎉 [Shunxin Chen] 指导学生发表 SCI-1 期刊论文 IJCV-2026，联合攻击检测算法，共同第一作者。
@@ -146,7 +149,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ACMM.jpg' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<big>**FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:9ZlFYXVOiuMC'></span></strong>  </big>
+<big>**FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:9ZlFYXVOiuMC'></span></strong> </big>
 
 ***Ajian Liu***, Hui Ma, Junze Zheng, Haocheng Yuan, Xiaoyuan Yu, Yanyan Liang, Sergio Escalera, Jun Wan, Zhen Lei
 
@@ -157,7 +160,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI-MAVIT.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<big>**Ma-vit: Modality-agnostic vision transformers for face anti-spoofing**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:3fE2CSJIrl8C'></span></strong>  </big>
+<big>**Ma-vit: Modality-agnostic vision transformers for face anti-spoofing**<strong><span class='show_paper_citations' data='isWtY64AAAAJ:3fE2CSJIrl8C'></span></strong> </big>
 
 ***Ajian Liu***, Yanyan Liang
 
@@ -170,6 +173,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 <div class='paper-box-text' markdown="1">
 
 <big>**CASIA-SURF**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:YsMSGLbcyi4C'></span></strong>
+
 Shifeng Zhang#, ***Ajian Liu#***, Jun Wan, Yanyan Liang, Guodong Guo, Sergio Escalera, Hugo Jair Escalante, Stan Z Li
 
 [[**PDF**]](https://arxiv.org/pdf/1908.10654)
@@ -192,7 +196,7 @@ Shifeng Zhang#, ***Ajian Liu#***, Jun Wan, Yanyan Liang, Guodong Guo, Sergio Esc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/data_hifimask.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<big>**CASIA-HiFiMask**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:IjCSPb-OGe4C'></span></strong>
+<big>**CASIA-HiFiMask**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:g5m5HwL7SMYC'></span></strong>
 
 ***Ajian Liu***, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang
 
@@ -238,7 +242,14 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 </div>
 
 # 📖Journals:
-
+- [28] **Ajian Liu**, Xun Lin, Hui Ma, Xinxing Yu, Jiabao Guo, Zitong Yu, Jun Wan, Zhanchuan Cai, Zhen Lei, Yanyan Liang. "**ICPE-FAS: Instance and Category Prompts Engineering for Generalizable Face Anti-Spoofing**". International Journal of Computer Vision (IJCV), 2026/6.
+- [27] Hui Ma, **Ajian Liu**, Xun Lin, Hugo Jair Escalante, Isabelle Guyon, Jun Wan, Zhen Lei, Yanyan Liang. "**Cm-clip: Few-shot cross-modal generalization for face anti-spoofing via prompt learning**". Machine Intelligence Research (MIR), 2026/4.
+- [26] Guoqing Ma, Xun Lin, Hui Ma, **Ajian Liu**, Yizhong Liu, Wenzhong Tang, Shan Yu, Chenqi Kong, Yi Yu. "**Stegaffd: Privacy-preserving face forgery detection via fine-grained steganographic domain lifting**". Machine Intelligence Research (MIR), 2026/4.
+- [25] **Ajian Liu**, Xun Lin, Ruicong Zhi, Yanyan Liang, Xinshan Zhu, Zhanchuan Cai, Jun Wan, Sergio Escalera, Zhen Lei. "**DGPDL: Domain-Guided Prompt Distribution Learning for Generalizable Face Anti-spoofing**". IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026/3/16.
+- [24] Ning Li, Xuxin Lin, **Ajian Liu**, Chaohao Jiang, Zhenwei Zhu, Yanyan Liang. "**Context-aware Knowledge Distillation for Anomaly Detection**". Knowledge-Based Systems (KBS), 2026/3/7.
+- [23] Junze Zheng, Xinping Gao, **Ajian Liu**, Haocheng Yuan, Jun Wan, Yanyan Liang, Jiankang Deng, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Isabelle Guyon, Du Zhang. "**Unified Physical–Digital Face Attack Detection Challenge: A Review**". IET Biometrics, 2026.
+- [22] Shijie Rao, Yidong Huang, Xueqian Zhang, Hao Fang, **Ajian Liu**, Jun Wan, Kaiyu Cui, Yali Li. "**HySpeFAS: A Hyperspectral Face Anti-Spoofing Dataset Based on Snapshot Compressive Imaging**". IEEE Transactions on Information Forensics and Security (TIFS), 2025/12/24.
+- [21] Tong Wu, Feng Lin, Gaojian Wang, Tiantian Liu, Zhibo Wang, Weizhi Meng, **Ajian Liu**, Kui Ren. "**CoGA: A Collaborative Gray-Box Adversarial Attack for Multimodal Language Models**". IEEE Transactions on Information Forensics and Security (TIFS), 2025/12/22.
 - [20] Hang Zou, Chenxi Du, **Ajian Liu**, Yuan Zhang, Jing Liu, Mingchuan Yang, Jun Wan, Hui Zhang, Zhenan Sun. "**Towards Generalized Iris Presentation Attack Detection: A Mask-and-Distill Mixture of Experts Approach**". IEEE Transactions on Information Forensics and Security (TIFS), 2026.
 - [19] Yongze Li, Ning Li, **Ajian Liu***, Hui Ma, Liying Yang, Xihong Chen, Zhiyao Liang, Yanyan Liang, Jun Wan, Zhen Lei. "**FA^{3}-CLIP: Frequency-Aware Cues Fusion and Attack-Agnostic Prompt Learning for Unified Face Attack Detection**". IEEE Transactions on Information Forensics and Security (TIFS), 2025.
 - [18] Shunxin Chen#, **Ajian Liu#**, Hao Fang, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong Liu, Jiankang Deng, Sergio Escalera, Xiaoming Liu, Jun Wan, Zhen Lei. "**UniAttack: Unified Physical-Digital Face Attack Detection**". International Journal of Computer Vision (IJCV), 2025.
@@ -261,6 +272,11 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 - [1] Fengmei Liang, Yajun Xu, Weixin Li, Xiaoling Ning, Xueou Liu, **Ajian Liu**. "**Recognition algorithm based on improved FCM and rough sets for meibomian gland morphology**”. Applied Sciences, 2017.
   
 # 📋 Conferences
+- [33] Xinxing Yu, **Ajian Liu***, Sunyuan Qiang, Hui Ma, Liying Yang, Yuzhong Wang, Zhi Rao, Yanyan Liang. "**PointCSP: Cross-Sample Semantic Propagation and Stability Preservation in Self-Supervised Point Cloud Learning**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+- [32] Haoyuan Zhang, Keyao Wang, Guosheng Zhang, Haixiao Yue, Zhiwen Tan, Siran Peng, Tianshuo Zhang, Xiao Tan, Kunbin Chen, Wei He, Jingdong Wang, **Ajian Liu**, Xiangyu Zhu, Zhen Lei. "**From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+- [31] Hao Tan, Jun Lan, Zichang Tan, **Ajian Liu**, Chuanbiao Song, Senyuan Shi, Huijia Zhu, Weiqiang Wang, Jun Wan, Zhen Lei. "**Veritas: Generalizable deepfake detection via pattern-aware reasoning**”. International Conference on Learning Representations (ICLR Oral), 2026.
+- [30] Kaichao Jiang, He Wang, Xiaoshuai Hao, Xiulong Yang, **Ajian Liu**, Qi Chu, Yunfeng Diao, Richang Hong. "**Your Classifier Can Do More: Towards Balancing the Gaps in Classification, Robustness, and Generation**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+- [29] Yunfeng Diao, Baiqi Wu, Ruixuan Zhang, **Ajian Liu**, Xiaoshuai Hao, Xingxing Wei, Meng Wang, He Wang. "**Tasar: Transfer-based attack on skeletal action recognition**”. International Conference on Learning Representations (ICLR), 2025/5/1.
 - [28] Xinxing Yu, **Ajian Liu***, Sunyuan Qiang, Yuzhong Wang, Hui Ma, Yanyan Liang. "**PointMC: Multi-view Consistent Encoding and Center-Global Feature Fusion for Point Clouds Understanding**”. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026/1/20.
 - [27] Tianshun Han, Benjia Zhou, **Ajian Liu**, Yanyan Liang, Du Zhang, Zhen Lei, Jun Wan. "**PESTalk: Speech-Driven 3D Facial Animation with Personalized Emotional Styles**”. Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025/10/27.
 - [26] Xinqi Su, Zitong Yu, Yawen Cui, **Ajian Liu**, Xun Lin, Yuhao Wang, Haochen Liang, Wenhui Li, Li Shen, Xiaochun Cao. "**Dynamic analysis and adaptive discriminator for fake news detection**”. Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025/10/27.
