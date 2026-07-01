@@ -27,6 +27,8 @@ Google Scholar: <a href=' '>google scholar citations <strong><span id='total_cit
 Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mailto:ajianliu92@gmail.com">ajianliu92@gmail.com</a>
 
 # 🔥 News(My CCF-A and IEEE-Trans papers as first, co-first, or corresponding author. I would like to thank all the authors for their contributions.)
+- *2026.07*: 🎉🎉 [Ajian Liu] 被聘请为“北京建筑大学”硕士研究生校外指导教师，聘期 2026/06/29 - 2030/06/28，欢迎报考。
+- *2026.06*: 🎉🎉 [Ajian Liu] 获批“中国科学院自动化研究所-多模态人工智能系统全国重点实验室-优秀青年基金”，10万，主持。
 - *2026.06*: 🎉🎉 [Ajian Liu] 发表第 9 篇 CCF-A 期刊论文 IJCV-2026，基于类别-实例提示工程的域泛化人脸活体检测，第一作者。
 - *2026.03*: 🎉🎉 [Ajian Liu] 发表第 8 篇 CCF-A 期刊论文 TPAMI-2026，基于域引导提示分布学习的域泛化人脸活体检测，第一作者。
 - *2026.03*: 🎉🎉 [Ajian Liu] 晋升为副研员（科学研究序列），定量评估第二名。
@@ -328,6 +330,7 @@ Hao Fang#, ***Ajian Liu#***, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong 
 - IEEE Transactions on Biometric Behavior and Identity Science (TBIOM), Best Paper Award (最佳论文奖), 2020.
 
 # 🚀 Projects and Funds
+- 中国科学院自动化研究所-多模态人工智能系统全国重点实验室-优秀青年基金，2026-07 至 2027-07，10万元，主持.
 - 浙江大学区块链与数据安全全国重点实验室, 2025-07 至 2027-07, 5万元, 主持.
 - 澳门青年学者计划, 2025-03 至 2027-03, 72万元, 主持.
 - 国家基金委青年科学基金项目, 2025-01 至 2027-12, 30万元, 主持.
